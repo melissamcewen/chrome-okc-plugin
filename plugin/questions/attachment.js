@@ -1,3 +1,5 @@
+/*Based on the book Attached http://www.attachedthebook.com/*/
+
 _OKCP.fileQuestions.attachment =
 {
     "non-avoidant": [
