@@ -46,6 +46,7 @@
         "features/devTools.js",
         "questions/domsub.js",
         "questions/politics.js",
+        "questions/attachment.js",
         "questions/children.js",
         "questions/demeanor.js",
         "questions/discrimination.js",

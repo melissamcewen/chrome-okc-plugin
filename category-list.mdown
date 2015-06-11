@@ -53,3 +53,7 @@ other
 demeanor
 	generally happy
 	unaggressive
+
+attachment
+	non-avoidant
+	non-anxious
