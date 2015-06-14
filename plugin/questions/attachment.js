@@ -12,7 +12,7 @@ _OKCP.fileQuestions.attachment =
         {
             "qid":"4043",
             "text":"Are you scared of commitment?",
-            "answerText": ["Yes.", "No."],
+            "answerText": ["Yes", "No"],
             "score": [-1, 1]
         },
         {
@@ -52,6 +52,71 @@ _OKCP.fileQuestions.attachment =
             "text":"Serious relationships feel...",
             "answerText": ["...Great!", "...Like jail"],
             "score": [1, -1]
+        },
+        {
+            "qid":"23543",
+            "text":"Is it a requirement that you communicate every day with your significant other (via phone, text, in person, whatever)?.",
+            "answerText": ["Yes, no matter what", "Yes, unless otherwise specified", "No, it's not necessary", "No, I'd prefer not to communicate daily" ],
+            "score": [0, 0, 0, -1],
+            "weight":[0,0,0,0.5]
+        },
+        {
+            "qid":"15749",
+            "text":"Do you go to great lengths to avoid conflict?",
+            "answerText": ["Yes", "No"],
+            "score": [-1, 1],
+            "weight":[0.5, 0.5]
+        },
+        {
+            "qid":"320",
+            "text":"Do you tend to blow off your responsibilities?",
+            "answerText": ["Yes", "No"],
+            "score": [-1, 1],
+            "weight":[0.5, 0.5]
+        },
+        {
+            "qid":"18692",
+            "text":"Do you have an ex that you would really like to date again?",
+            "answerText": ["Yes", "No"],
+            "score": [-1, 1]
+        },
+        {
+            "qid":"363",
+            "text":"Do you prefer a long-term commitment right now?",
+            "answerText": ["Yes", "No"],
+            "score": [1, -1]
+        },
+        {
+            "qid":"6392",
+            "text":"Which is worse?",
+            "answerText": ["Rejection", "Commitment"],
+            "score": [0, -1]
+        },
+        {
+            "qid":"19671",
+            "text":"Conflict is unavoidable in even the best of relationships. How do you take yours?",
+            "answerText": ["Loud and strong: I will be heard!", "Calmly and rationally: there's no need to shout.","Unavoidable? Not if I keep my mouth shut.", "Unavoidable? Not if she keeps her mouth shut!"],
+            "score": [0, 1, -1, -1]
+        },
+        {
+            "qid":"13087",
+            "text":"In terms of relationships, commitment is...",
+            "answerText": ["...wonderful!", "...okay, but right now I want to be open.", "...something I both fear and desire.", "...a dish best served cold."],
+            "score": [1, -1, -1, -1],
+            "weight": [1,.5, 1, 1]
+        },
+        {
+            "qid":"41953",
+            "text":"About how long do you want your next relationship to last?",
+            "answerText": ["One night", "A few months to a year", "Several years", "The rest of my life"],
+            "score": [-1, -1, -1, 1],
+            "weight": [1,.5,.5, 1]
+        },
+        {
+            "qid":"327",
+            "text":"How does having sex with someone usually affect your emotional attachment to them?",
+            "answerText": ["I become more attached.",  "I become less attached.", "I told you. I'm a virgin.", "It stays about the same."],
+            "score": [1, -1, 0, 0]
         }
 
     ],
