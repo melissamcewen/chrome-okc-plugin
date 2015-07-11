@@ -49,6 +49,7 @@ discrimination
 other
 	artist
 	non-artist
+	real-life
 
 demeanor
 	generally happy

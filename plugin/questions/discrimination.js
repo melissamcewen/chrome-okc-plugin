@@ -80,7 +80,14 @@ _OKCP.fileQuestions.discrimination =
                 "answerText": ["She had it coming by wearing that outfit.", "A short skirt is not an invitation."],
                 "score": [-1, 1],
                 "weight": [1, 0]
-            }
+            },
+			{
+				"qid": "134",
+				"text": "Do you think women have an obligation to keep their legs shaved?",
+				"answerText": ["Yes", "No"],
+				"score": [-1, 1],
+				"weight": [1, 0]
+			}
         ],
 
 
