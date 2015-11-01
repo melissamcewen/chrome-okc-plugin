@@ -49,8 +49,8 @@ _OKCP.fileQuestions.attachment =
         },
         {
             "qid":"490",
-            "text":"Serious relationships feel...",
-            "answerText": ["...Great!", "...Like jail"],
+            "text":"Serious relationships?",
+            "answerText": ["Great!", "Feel like jail."],
             "score": [1, -1]
         },
         {
@@ -117,6 +117,54 @@ _OKCP.fileQuestions.attachment =
             "text":"How does having sex with someone usually affect your emotional attachment to them?",
             "answerText": ["I become more attached.",  "I become less attached.", "I told you. I'm a virgin.", "It stays about the same."],
             "score": [1, -1, 0, 0]
+        },
+        {
+            "qid":"36045",
+            "text": "Are you ready to settle down and get married right now?",
+            "answerText": ["Absolutely.", "No way.", "Get married yes, settle down no." , "Get married no, settle down yes."],
+            "score": [0, -1, 0, 0]
+        },
+        {
+            "qid":"35660",
+            "text":"How often are you open with your feelings?",
+            "answerText":["Always", "Usually", "Rarely", "Never"],
+            "score":[1, 0, -1, -1]
+        },
+        {
+            "qid":"19874",
+            "text":"How long do your romantic relationships usually last?",
+            "answerText":["0-6 months", "6-12 months", "12+ months", "I've never been in a relationship"],
+            "score":[-1, -1, 1, 0]
+        },
+        {
+            "qid":"57105",
+            "text":"Have you ever purposely aggravated a partner to make them break up with you so you didn't have to do the dumping?",
+            "answerText":["Yes.", "No."],
+            "score":[-1, 1]
+        },
+        {
+            "qid":"48770",
+            "text":"Would it ever be okay to break up with someone by email or text?",
+            "answerText":["Yes.", "No."],
+            "score":[-1, 1]
+        },
+        {
+            "qid":"46091",
+            "text":"Imagine that someone you are dating seems to be falling in love with you. You like this person, but you're clearly not falling in love. Which of the following would be closest to what you would do?",
+            "answerText":["I'd tell them how I feel and we'd go from there.", "I'd do nothing and hope it all works itself out.", "I'd break off relations.", "I'd use their love for all it's worth."],
+            "score":[1, 0, -1, -1]
+        },
+        {
+            "qid":"23532",
+            "text":"When you break up with someone, do you tell them the real reason(s) or do you try to let them down as easy as possible?",
+            "answerText":["Tell the truth, no matter how much it hurts.", "Go easy on them - they'll hurt enough as it is.", "I've never been the dump-er"],
+            "score":[1, -1, 0]
+        },
+        {
+            "qid":"35",
+            "text":"Regardless of future plans, what's more interesting to you right now?",
+            "answerText": ["Sex", "Love"],
+            "score": [-1, 1]
         }
 
     ],
@@ -201,6 +249,18 @@ _OKCP.fileQuestions.attachment =
             "answerText": ["I'd try to contact them repeatedly.", "I'd be hopeful that they would make the next move.", "I'd assume they're busy and leave them alone.", "I'd ignore them from now on."],
             "score": [-1, 1, 1, -1]
         },
+        {
+            "qid":"23338",
+            "text":"Your signifigant other has a hobby that you find boring. They're busy doing whatever it is they like to do, and you're bored. What do you do?",
+            "answerText": ["Go do something I like, alone", "Sit and watch to figure out why they like it", "Sit and watch, resentful.", "Bug them for attention."],
+            "score": [1, 0, -2, -2]
+        },
+        {
+            "qid":"26557",
+            "text": "You're dating someone new. You discover that they have a housemate the same sex as you. This:",
+            "answerText": ["Makes you feel uncomfortable", "Doesn't faze you one bit"],
+            "score": [-1, 1]
+        }
 
     ]
 
